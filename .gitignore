@@ -1,0 +1,14 @@
+# Ignore workspace and IDE settings
+.idea/
+*.iml
+workspace.xml
+# Virtual environment and cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+# Ignore log files and system files
+*.log
+.DS_Store
+Thumbs.db
+.env  # Ignore environment variables
